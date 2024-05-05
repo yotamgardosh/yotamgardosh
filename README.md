@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Yotam Gardosh, and I am a third-year student pursuing a degree in Computer Science and Cognition at the Hebrew University of Jerusalem. I'm passionate about machine learning, image processing, data structures and algorithms.
+Looking for a fulfilling and exciting position as a software engineer.
+
 <!--
 **yotamgardosh/yotamgardosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
