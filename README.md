@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Yotam Gardosh, and I am a third-year student pursuing a degree in Computer Science and Cognition at the Hebrew University of Jerusalem. I'm passionate about machine learning, image processing, data structures and algorithms.
-Looking for a fulfilling and exciting position as a software engineer.
+My name is Yotam Gardosh, and I am a Reasercher in the Faculty of Aerospace Engineering, Technion R&D, as well as a third-year student pursuing a degree in Computer Science and Cognition Science at the Hebrew University of Jerusalem. I'm passionate about neural networks, image processing, data structures, and algorithms.
 
 
 ## Programing Languages & Tools
